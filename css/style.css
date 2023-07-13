@@ -1,3 +1,53 @@
 body{
     font-family: sans-serif;
 }
+
+.header{
+    background-color: #1f2937;
+}
+
+.top{
+    background-color: #1f2937;
+}
+
+.title_text{
+    font-weight:900;
+    color: #f9faf8;
+}
+
+.title_description{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.images_header{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.bottom{
+    background-color: #e5e7eb;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.shary{
+    font-size: 28px;
+    font-weight: bold;
+}
+.container{
+    background-color: #3882f6;
+}
+
+.footer{
+    background-color: #1f2937;
+}
+
+button{
+    color: #3882f6;
+}
